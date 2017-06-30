@@ -1,0 +1,5 @@
+description:    A simple fantasy text-rogue-like written in C++.
+Purpose:        Sharpening my C++ skills while having a good time.
+Scope:          Player will be able to create a character by selecting a race
+                and profession, name their character, and play through a random
+                series of encounters ( combat and social ).
